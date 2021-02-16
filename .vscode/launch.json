@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug CP4A",
+            "request": "attach",
+            "hostName": "127.0.0.1",
+            "projectName": "CP4A",
+            "timeout": 180000
+        }
+    ]
+}
